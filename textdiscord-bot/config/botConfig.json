@@ -1,0 +1,11 @@
+{
+  "intents": ["Guilds"],
+  "presence": {
+    "activities": [
+      {
+        "name": "Roblox development",
+        "type": 0
+      }
+    ]
+  }
+}
